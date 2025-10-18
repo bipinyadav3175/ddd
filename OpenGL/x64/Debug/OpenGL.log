@@ -1,0 +1,6 @@
+﻿  Main.cpp
+D:\OpenGL\mesh.h(62,44): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  (compiling source file 'Main.cpp')
+  
+D:\OpenGL\Main.cpp(89,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  OpenGL.vcxproj -> D:\OpenGL\x64\Debug\OpenGL.exe
